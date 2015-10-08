@@ -4,3 +4,73 @@
   /*font-size: 12px; *//* this is a rule */
 /*}*/
 
+body {
+  background-color: #F1F1F1;
+  border: black;
+}
+
+#content{
+  margin-right: 80px;
+  margin-left: 80px;
+  background: white;
+  border: black;
+}
+
+#banner{
+  /*text-align: right;*/
+  background: white;
+  padding-right: 200px;
+  padding-top:50px;
+}
+
+#banner h1{
+  text-align: right;
+}
+
+
+#banner h2{
+  color: gray;
+  font-size: medium;
+  text-align: right;
+}
+
+#why-love div{
+  float: right;
+  width:50%;
+}
+
+#retina{
+  background-color: white;
+}
+
+#retina div{
+  float: left;
+  width:50%;
+}
+
+.actions li {
+  float: left;
+  width: 33%;
+  border: 1px;
+  list-style: none;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.actions ul{
+  margin-bottom: 50px;
+}
+
+
+#specs,th,td{
+  border: 1px;
+  border-color: lightgray;
+  border-style: solid;
+  border-collapse: collapse;
+  background-color: white;
+  width: 80%;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+
